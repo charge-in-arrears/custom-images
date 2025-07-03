@@ -4,7 +4,7 @@ dist: focal
 
 vm:
   create:
-    name: charge-in-arrears-i4
+    name: charge-in-arrears-i5
 
 script:
   - echo "Creating custom file"
